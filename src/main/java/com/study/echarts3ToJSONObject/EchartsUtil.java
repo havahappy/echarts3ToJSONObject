@@ -1,4 +1,4 @@
-package com.zhe800.echarts3ToJSONObject;
+package com.study.echarts3ToJSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
